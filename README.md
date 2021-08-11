@@ -1,2 +1,2 @@
-# c-digos-js
+# codigos-js
 Feito para salvar todos os meus códigos feitos na linguagem JavaScript.
